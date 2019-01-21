@@ -1,3 +1,4 @@
 A list of data sets which predict difference between apple and orange where apple is denoted as 0 and orange is 1.
 where as in features table, 0 is denoted as bumpy and 1 is denoted as smooth followed by different weights in gram.
 a decision tree classifier will predict the sets of fruit with respect to its feautures and weights.
+<haris jr>
